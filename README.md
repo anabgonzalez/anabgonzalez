@@ -1,16 +1,18 @@
-## Hi there 👋
+- # 👋 Hi, I'm Ana Gonzalez
+🚀 Aspiring Full Stack Developer | Codecademy Full Stack Path
 
-<!--
-**anabgonzalez/anabgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my front-end skills by practicing Javascript.
+- 🌱 I’m currently learning **Full Stack Development** at Codecademy.
+- 👯 I’m looking to collaborate on a web application build! I have been thinking about building a field management service app or a print shop management app. 
+- 🤔 I’m looking for help with learning or experiencing what a day in the life of a true developer is like so I know what to focus and prepare for.
+- 💬 Ask me about **HTML, CSS, Javascript, and React**
+- 📫 How to reach me: anagonzalezntx@gmail.com | https://www.linkedin.com/in/ana-b-gonzalez/ | X: @anagonzalezntx
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a Dallas Cowboys fan!
 
-Here are some ideas to get you started:
+## 🚀 Achievements
+- 📜 Codecademy Full Stack Engineer Path (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML | CSS | JavaScript | React (Basics)
+- Git | GitHub | Visual Studio Code
